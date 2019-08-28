@@ -1,4 +1,4 @@
-# Thai-Named-Entity-Detection
+# Thai-Named-Entity-Recognition
 As part of Wisesight interview assignment
 
 Named Entity Recognition
